@@ -1,2 +1,1 @@
-# prep-course-henry
-Este es un repositorio de prueba
+Esta es una prueba de como crear un repositorio y clonarlo desde github en mi computadora
